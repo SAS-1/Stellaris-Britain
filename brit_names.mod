@@ -3,4 +3,4 @@ path="mod/brit_names"
 tags={
 	"Species"
 }
-supported_version="2.*.*"
+supported_version="2.2.*"
