@@ -11,13 +11,13 @@
 	species_adjective = "Human"
 	species_bio="In the years after Brexit, the UK was able to flourish while the EU slowly collapsed. 
 
-	After discussions with the rest of the Commonwelth of Nations the commonwelth started to open it's doors up to the other nations of Earth. 
-	
-	America, struggling with it's place after the brief 2nd Civil war, decided to join the Commonwelth the trade and technological advantages were worth it.  
-	
-	Over the years the rest of the world either joined the commonwelth, prospering and helping to advance science and tech or fell to depotisim. 
-	
-	The commonwelth now leads the free and advanced countries of the world, the UK considered to be first among equals, under the Monarch and their Prime Minister will lead the people of earth into space."
+    After discussions with the rest of the Commonwealth of Nations the Commonwealth started to open its doors up to the other nations of Earth. 
+    
+    America, struggling with its place after the brief 2nd Civil war, decided to join the Commonwealth the trade and technological advantages were worth it.  
+    
+    Over the years the rest of the world either joined the Commonwealth, prospering and helping to advance science and tech or fell to despotism. 
+    
+    The Commonwealth now leads the free and advanced countries of the world, the UK considered to be first among equals, under the Monarch and their Prime Minister will lead the people of earth into space."
 	species_class = "HUM"
 	portrait = "human"
 	#room = "ethic_pacifist_room"

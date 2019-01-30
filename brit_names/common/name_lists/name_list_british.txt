@@ -165,7 +165,7 @@ BRITISH = {
 			Enigma Elementary
 			Flowerdown "Forest Moor" "Francis Bacon" Ferric
 			"George Ripley"
-			Houyhnhnm "Henry Oldenburg"
+			Hawking Houyhnhnm "Henry Oldenburg"
 			"Isaac Newton" "Invisible College"
 			"John Evelyn" "John Wilkins"
 			Knowledge
