@@ -11,14 +11,14 @@ BRITISH = {
 			Bellemina "Bangor Bay" "Bermuda Trader" Bloomfield "Banbury Cross" Barman Bermondsey Brigantine Bull
 			"Black Dog" "Black Pig" Brexit Britomart Bruiser Baldrick "British Tar" Bulldog Bluebell
 			Cleonie Crossbow "Castle Hill" Clervaux "Clan Buchanan" Charger Courser "Christ of Lynn" Crane
-			Convertine "Cloud in the Sun" "Constant Reformation" "Chelsea Garden"
-			Derryheen "Daisy Brooke" Despina Dunhawk "Dorington Court" Daresay Duneagle "Dundas Cross" Dinsdale
+			Convertine "Cloud in the Sun" "Constant Reformation" "Chelsea Garden" Collins 
+			Dragon Defender Derryheen "Daisy Brooke" Despina Dunhawk "Dorington Court" Daresay Duneagle "Dundas Cross" Dinsdale
 			Daydawn "Dover Hill" "Double Rose" "Due Repulse" Dainty "Dick Deadeye" "Darlington Jeremy" Dryad
 			Dandiprat Dirck
 			Elax "Empire Star" Eaglesdale Engadine Ena Energetic "Ethel Everard" "Edward Bonaventure"
 			Everlasting Everpresent Efficient Energetic Effortless Enigmatic "Elizabeth Jonas"
 			Foremost "Funny Duberly" Fetnab "Flying Kestrel" Farmsum "Falcon in the Fetterlock" "Friar Tuck"
-			Flying
+			Flying Farncomb 
 			Granpond "Galtee More" Ginger Gemsbok Glengarnock Guardsman "Great Zebra" Gillyflower Garland
 			Gannet "Gay Viking" "Gay Corsair" Gleaner "Golden Vanity" Guardian
 			Huntsbrook "Happy Spacefarer" "Hartland Point" Horis Hindlea Hare Hawthorne "Happy Entrance"
@@ -40,20 +40,20 @@ BRITISH = {
 			Swift "Seven Stars" "Small Swallow" "Saint Matthew" "Saint Andrew" Splendid "Sergeant Pepper"
 			Thanet Tribesman "Tower Grange" "Tees Breeze" "Trego Ronnyger" "Three Ostrich Feathers" Tagamax
 			Tadpole Thrust Trustworthy
-			Vimy Vindicative
-			Wilga "West Isleta" "Wave Liberator" "Warp Knight" Woodcock Wakeful Watchful "Witch's Familiar"
+			Vimy Vindicative Vanguard Victorious Vigilant Vengeance
+			Wilga "West Isleta" "Wave Liberator" "Warp Knight" Woodcock Wakeful Watchful "Witch's Familiar" Waller
 			"Yarmouth Town"
 		}
 		
 		destroyer = {
-			Aurora Arquebus Artigo Ambuscade Acasta Angler Ariel
-			Beacon "Black Bark" "Bark of Bullen" "Bark of Murless" Bonavolia
+			Aurora Arquebus Artigo Ambuscade Acasta Angler Ariel ANZAC Arunta
+			Beacon "Black Bark" "Bark of Bullen" "Bark of Murless" Bonavolia Brisbane 
 			Constellation "Christopher of Bream" "Constant Warwick" "Crowned Lion" Cheriton Cygnet Conflict
 			Damsel Dapper Darling Daring
 			Ellynore "Eastern Prince" Expedition Electra "Earl Grey" Earnest
 			Focomar "Flying Typhoon" Firedrake Foxhound Fervent Feverish Ferrent Fame
 			Greyhound "Gold Sky" "Grand Mistress" "Great Bark Aiger" "Golden Cock" "Great Charity"
-			Heart "Henry Hampton" "Hope Bark" "Henrietta Maria" Heatsease Hurricane
+			Heart "Henry Hampton" "Hope Bark" "Henrietta Maria" Heatsease Hurricane Hobart 
 			"Iron Duke"
 			Janus "John of Greenwich"
 			"Katherine Bark"
@@ -62,20 +62,20 @@ BRITISH = {
 			Minotaur Miranda "Mawdlyn of Deptford" "Mary And John" "Mary Willoughby" "Matthew Gonson" Marigold
 			Marryan "Mary Hambrough" "Mary Thomas" "Mary James" "Mary Odierne"
 			Nightingale
-			Primrose "Prince royal"
+			Primrose "Prince royal" Perth
 			Ridgeback "Rainbow Night" "Red Lion" "Ralph Rackstraw" Racehorse
-			Stargazer Seafarer Struss Sacrett Salamander "Sans Pareil" "Saint Espirit" Satisfaction "Sea Nymph"
-			Thane "True Light" "Trinity Henry" Trywight Tramontana Talisman
+			Stargazer Seafarer Struss Sacrett Salamander "Sans Pareil" "Saint Espirit" Satisfaction "Sea Nymph" Sydney 
+			Thane "True Light" "Trinity Henry" Trywight Tramontana Talisman Toowoomba Te Kaha Te Mana 
 			Undaunted Unstoppable
-			Verlam VolageVenomous Vendetta Vansittart Vanity Valorous Versatile
-			Welcome "Wisdom Of The Stars" "Warp Duke" "White Bear" Warden Weapon "Wand'ring Minstrel" Wryneck
+			Verlam Volage Venomous Vendetta Vansittart Vanity Valorous Versatile
+			Warramunga Welcome "Wisdom Of The Stars" "Warp Duke" "White Bear" Warden Weapon "Wand'ring Minstrel" Wryneck
 		}
 		
 		cruiser = {
-			Ajax Achilles Aquitaine Anglia "Anne Gallant" Adventure Assurance "Away Remorse" "Aether Raja" Astraea
+			Ajax Achilles Aquitaine Anglia "Anne Gallant" Adventure Assurance "Away Remorse" "Aether Raja" Astraea Adelaide 
 			Bernicia "Black Raven" "Brave Dame" Beefeater "Bad Baronet"
-			"Crystal Palace" "Carvel of Ewe"
-			Duchess Diadem Dashing "Daily Grind"
+			"Crystal Palace" "Carvel of Ewe" Canberra Canterbury 
+			Diamond Duchess Diadem Dashing "Daily Grind" Darwin  Duncan
 			Exeter Essex Endymion Edgar Equinox
 			Flashheart Furious Firespitter Forward "Fair Is Rose" "For Happy The Lily" "Foul Play"
 			"Fantastic Miracle" "Finest Hour"
@@ -84,7 +84,7 @@ BRITISH = {
 			Jellicoe "Jennet Prywin" "John Baptist"
 			"Kartherine Fortune"
 			Laurel "Little Barbara" Littlejohn
-			Mercia Mariner Mars Marvelous "Mary Fortune" "Mary Loret" Mikado Marathon
+			Mercia Mariner Mars Marvelous "Mary Fortune" "Mary Loret" Mikado Marathon Melbourne 
 			Nelson Northumbria Neptune "Nicholas Reede" Notthingham
 			Protestor "Peter Pomegranate" Phoenix
 			Retribution Regent Roebuck Resolution Reserve "Raven King" "Red Dragon" Ruddigore "Ready Aye Ready"
@@ -97,7 +97,7 @@ BRITISH = {
 		battleship = {
 			Agincourt Arrogant
 			Britannia 
-			Cumbria Cornwall Churchill
+			Cumbria Cornwall Churchill Calgary
 			Dreadnought Dauntless Dominion
 			Excalibur England Enterprize
 			Gloriana "Grace Dieu" "Great Elizabeth"
@@ -108,9 +108,9 @@ BRITISH = {
 			Olympia
 			Pinafore Perfidious "Prince of Wales"
 			Scotland "Sovereign of the Stars" Sceptre
-			"Trinity Royal"
+			"Trinity Royal" Toronto
 			Unicorn
-			Victory Visionary
+			Victory Visionary Vancouver
 			Warrior Wellington Wales
 			Zenith
 		}
@@ -169,21 +169,21 @@ BRITISH = {
 			"Isaac Newton" "Invisible College"
 			"John Evelyn" "John Wilkins"
 			Knowledge
-			"Lawrence Rooke" Locomotion
-			Magician Magnesium "Major Boothroyd" "Mutus Liber"
+			"Lawrence Rooke" Locomotion Leeuwin  
+			Magician Magnesium "Major Boothroyd" Melville "Mutus Liber"
 			"Nullus In Verba" "New Atlantis"
 			Philosophic Plumbic Platinum Phosphorus "Puffing Billy"
 			Quicksilver
 			"Robert Hooke" "Robert Moray" "Robert Boyle" Rainhill
-			Shackleton Salt Stannic "Sal Ammoniac" "Samuel Norton"
+			Scott Shackleton Salt Stannic "Sal Ammoniac" "Samuel Norton"
 			"Terra Nova" "Tube Alloys" "True Light" "Tim Bernard Lee"
 			Ventor Vitriol
 			Watson "Wylam Dilly" Wisdom
 		}
 		
 		transport = {
-			Aberdonian
-			"Bon Accord" "Bright Belle" "Bournemouth Belle" Broadsman Bristolian
+			Aberdonian Albion
+			"Bon Accord" "Bright Belle" "Bournemouth Belle" Broadsman Bristolian Bulwark
 			Caledonian Cambrian "Cheltenham Flyer" Clansman Comet "Cornish Riviera" Coronation
 			"Day Continental" "Devon Belle" Devonian
 			"East Anglian" Easterling "Eastern Belle" Elizabethan
