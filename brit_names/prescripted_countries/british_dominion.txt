@@ -1,5 +1,5 @@
 	BRITISH = {
-	name="Britain and the Commonwelth of Nations"
+	name="Britain and the Commonwealth of Nations"
 	spawn_enabled=yes
 	adjective="British"
 	
