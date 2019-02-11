@@ -25,3 +25,13 @@ part = {
 		has_country_flag = "BRITISH"
 	}
 }
+
+# The Commonwelth
+part = {
+	location = 0
+	localization = "START_SCREEN_COMMONWEALTH"
+	
+	trigger = { 
+		has_country_flag = "COMMONWEALTH"
+	}
+}
