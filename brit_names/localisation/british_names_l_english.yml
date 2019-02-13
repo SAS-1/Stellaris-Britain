@@ -10,13 +10,13 @@
  ####################################
  # Planet Classes
  ####################################
- pc_desert_habitability:0 "0.1"
- pc_arid_habitability:0 "0.1"
- pc_tropical_habitability:0 "0.1"
- pc_continental_habitability:0 "0.1"
- pc_gaia_habitability:0 "0.1"
- pc_ocean_habitability:0 "0.1"
- pc_tundra_habitability:0 "0.1"
- pc_arctic_habitability:0 "0.1"
- pc_savannah_habitability:0 "0.1"
- pc_alpine_habitability:0 "0.1"
+ pc_desert_habitability:0 "Desert Habitability"
+ pc_arid_habitability:0 "Arid Habitability"
+ pc_tropical_habitability:0 "Tropical Habitability"
+ pc_continental_habitability:0 "Continental Habitability"
+ pc_gaia_habitability:0 "Gaia Habitability"
+ pc_ocean_habitability:0 "Ocean Habitability"
+ pc_tundra_habitability:0 "Tundra Habitability"
+ pc_arctic_habitability:0 "Artic Habitability"
+ pc_savannah_habitability:0 "Savannah Habitability"
+ pc_alpine_habitability:0 "Alpine Habitability"

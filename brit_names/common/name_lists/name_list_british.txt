@@ -2,7 +2,7 @@
 
 BRITISH = {
 	randomized = no
-	alias = "Human"
+	#alias = "Human"
 
 	ship_names = {
 		
@@ -84,7 +84,7 @@ BRITISH = {
 			Jellicoe "Jennet Prywin" "John Baptist"
 			"Kartherine Fortune"
 			Laurel "Little Barbara" Littlejohn
-			Mercia Mariner Mars Marvelous "Mary Fortune" "Mary Loret" Mikado Marathon Melbourne 
+			Mercia Mariner Mars Marvelous "Mary Fortune" "Mary Loret" Mikado Marathon Melbourne Marlborough
 			Nelson Northumbria Neptune "Nicholas Reede" Notthingham
 			Protestor "Peter Pomegranate" Phoenix
 			Retribution Regent Roebuck Resolution Reserve "Raven King" "Red Dragon" Ruddigore "Ready Aye Ready"
@@ -182,7 +182,7 @@ BRITISH = {
 		}
 		
 		transport = {
-			Aberdonian Albion
+			Aberdonian Albion "Atlantic Conveyor"
 			"Bon Accord" "Bright Belle" "Bournemouth Belle" Broadsman Bristolian Bulwark
 			Caledonian Cambrian "Cheltenham Flyer" Clansman Comet "Cornish Riviera" Coronation
 			"Day Continental" "Devon Belle" Devonian

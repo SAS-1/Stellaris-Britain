@@ -3,7 +3,7 @@
 	spawn_enabled=yes
 	adjective="British"
 	
-	name_list = "BRITISH"
+	name_list =  "BRITISH"
 	ship_prefix="HMS"
 	
 	species_name = "Human"
@@ -82,7 +82,7 @@ COMMONWEALTH = {
 	name="Commonwealth of Nations"
 	spawn_enabled=yes
 	adjective="Commonwealth"
-	
+
 	name_list = "BRITISH"
 	ship_prefix="CON"
 	
@@ -110,19 +110,19 @@ COMMONWEALTH = {
 	planet_class = "pc_continental"
 	system_name="Sol"
 	initializer="sol_system_initializer"
-	graphical_culture="mammalian_01"
+	graphical_culture="humanoid_01"
 	city_graphical_culture="mammalian_01"
 	
 	flags = {COMMONWEALTH custom_start_screen}
 	
 	empire_flag={
 		icon={
-			category="human"
-			file="flag_human_4.dds"
+			category="spherical"
+			file="flag_spherical_4.dds"
 		}
 		background={
 			category="backgrounds"
-			file="v.dds"
+			file="00_solid.dds"
 		}
 		colors={
 			"dark_blue"
