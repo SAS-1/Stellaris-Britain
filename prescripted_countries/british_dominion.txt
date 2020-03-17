@@ -1,0 +1,159 @@
+	BRITISH = {
+	name="Britain and the Commonwealth of Nations"
+	spawn_enabled=yes
+	adjective="British"
+	
+	name_list =  "BRITISH"
+	ship_prefix="HMS"
+	
+	species_name = "Human"
+	species_plural = "Humans"	#we should localize this!
+	species_adjective = "Human"
+	species_bio="In the years after Brexit, the UK was able to flourish while the EU slowly collapsed. 
+
+    After discussions with the rest of the Commonwealth of Nations the Commonwealth started to open its doors up to the other nations of Earth. 
+    
+    America, struggling with its place after the brief 2nd Civil war, decided to join the Commonwealth the trade and technological advantages were worth it.  
+    
+    Over the years the rest of the world either joined the Commonwealth, prospering and helping to advance science and tech or fell to despotism. 
+    
+    The Commonwealth now leads the free and advanced countries of the world, the UK considered to be first among equals, under the Monarch and their Prime Minister will lead the people of earth into space."
+	species_class = "HUM"
+	portrait = "human"
+	#room = "ethic_pacifist_room"
+	trait="trait_quick_learners"
+	trait="trait_talented"
+	
+	
+	authority="auth_imperial"
+	government="gov_enlightened_monarchy"
+	planet_name="Earth"
+	planet_class = "pc_continental"
+	system_name="Sol"
+	initializer="sol_system_initializer"
+	graphical_culture="mammalian_01"
+	city_graphical_culture="mammalian_01"
+	
+	flags = {BRITISH custom_start_screen}
+	
+	empire_flag={
+		icon={
+			category="human"
+			file="flag_human_4.dds"
+		}
+		background={
+			category="backgrounds"
+			file="v.dds"
+		}
+		colors={
+			"dark_blue"
+			"red"
+			"null"
+			"null"
+		}
+	}
+	
+	ruler={
+		gender=female
+		name="Elizabeth III"
+		portrait="human_female_01"
+		texture=0
+		hair=2
+		clothes=2
+		ruler_title="King"
+		heir_title="Prince of Wales"
+		ruler_title_female="Queen"
+		heir_title_female ="Princess Royal"
+	}
+	
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room="personality_democratic_crusaders_room"
+	ethic="ethic_xenophile"
+	ethic="ethic_fanatic_militarist"
+	civics={
+		"civic_philosopher_king"
+		"civic_environmentalist"
+	}
+	origin="origin_default"
+}
+
+
+COMMONWEALTH = {
+	name="Commonwealth of Nations"
+	spawn_enabled=yes
+	adjective="Commonwealth"
+
+	name_list = "BRITISH"
+	ship_prefix="CON"
+	
+	species_name = "Human"
+	species_plural = "Humans"	#we should localize this!
+	species_adjective = "Human"
+	species_bio="The Commonwealth of Nations has expanded from a small number of countries to nearly all nations on Earth.
+	
+	They have a standard criteria, a shared language, history, culture and their shared values of democracy, human rights and the rule of law. 
+	These values are enshrined in the Commonwealth Charter and promoted by the quadrennial Commonwealth Games. 
+	
+	The Commonwealth believe in helping each other, and ensuring that the future is protected. 
+	
+	The Monarch and Commonwealth secretary will lead the people of earth into space."
+	species_class = "HUM"
+	portrait = "human"
+	#room = "ethic_pacifist_room"
+	trait="trait_quick_learners"
+	trait="trait_talented"
+	
+	
+	authority="auth_imperial"
+	government="gov_enlightened_monarchy"
+	planet_name="Earth"
+	planet_class = "pc_continental"
+	system_name="Sol"
+	initializer="sol_system_initializer"
+	graphical_culture="humanoid_01"
+	city_graphical_culture="mammalian_01"
+	
+	flags = {COMMONWEALTH custom_start_screen}
+	
+	empire_flag={
+		icon={
+			category="spherical"
+			file="flag_spherical_4.dds"
+		}
+		background={
+			category="backgrounds"
+			file="00_solid.dds"
+		}
+		colors={
+			"dark_blue"
+			"red"
+			"null"
+			"null"
+		}
+	}
+	
+	ruler={
+		gender=female
+		name="Elizabeth III"
+		portrait="human_female_01"
+		texture=0
+		hair=2
+		clothes=2
+		ruler_title="King"
+		heir_title="Prince of Wales"
+		ruler_title_female="Queen"
+		heir_title_female ="Princess Royal"
+	}
+	
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room="personality_democratic_crusaders_room"
+	ethic="ethic_xenophile"
+	ethic="ethic_fanatic_militarist"
+	civics={
+		"civic_philosopher_king"
+		"civic_environmentalist"
+	}
+	origin="origin_default"
+}

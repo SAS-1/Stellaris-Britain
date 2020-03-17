@@ -1,0 +1,22 @@
+﻿l_english:
+ name_list_BRITISH:0 "British"
+ name_list_BRITISH_desc:0 "'§YLeaders:§! Elizabeth III, Charles\n§YShips:§! Ajax, Achillies\n§YFleets:§! Home Fleet, Portsmouth Flotila\n§YColonies:§! New Britain, New Scotland"
+ START_SCREEN_BRITISH:0 "Since the United Nations proved ineffective, the Commonwealth of Nations are now the De facto World body.\n\ncomprising the majority of countries in the world, this alliance is the most advanced the world has seen.\n\nThe countries that make up the Commonwealth thanks to freedom of expression, religion and science have developed technologies to protect and improve life.\n\nThe remaining countries of Earth, led by Despots and Dictators cannot feed their people, the Commonwealth helps where it can.\n\nThe recent development of FTL travel has reignited the imagination of the free world, not since Apollo over 2 century ago has the world been so engrossed in Space.\n\nNow under the Commonwealth and it's head [Root.GetRulerTitle] [Root.GetRulerName], we will expand to the stars bring Peace, Justice and Freedom with us.\n\nGod Save The Queen."
+
+ name_list_COMMONWEALTH:0 "British"
+ name_list_COMMONWEALTH_desc:0 "'§YLeaders:§! Elizabeth III, Charles\n§YShips:§! Ajax, Achillies\n§YFleets:§! Home Fleet, Portsmouth Flotila\n§YColonies:§! New Britain, New Scotland"
+ START_SCREEN_COMMONWEALTH:0 " The Commonwealth dates back to the first half of the 20th century with the decolonisation of the British Empire through increased self-governance of its territories.\nIt was originally created as the British Commonwealth through the Balfour Declaration at the 1926 Imperial Conference, and formalised by the United Kingdom through the Statute of Westminster in 1931.\nThe current Commonwealth of Nations was formally constituted by the London Declaration in 1949, which modernised the community, and established the member states as "free and equal"\n\nOver the next 200 years the Commonwealth expanded and took in the rest of the Western Nations, bringing peace and the rule of justice to the world. \n\nNow under the Commonwealth and it's head [Root.GetRulerTitle] [Root.GetRulerName], we will expand to the stars bring Peace, Justice and Freedom with us.\n\nGod Save The Queen."
+ 
+ ####################################
+ # Planet Classes
+ ####################################
+ pc_desert_habitability:0 "Desert Habitability"
+ pc_arid_habitability:0 "Arid Habitability"
+ pc_tropical_habitability:0 "Tropical Habitability"
+ pc_continental_habitability:0 "Continental Habitability"
+ pc_gaia_habitability:0 "Gaia Habitability"
+ pc_ocean_habitability:0 "Ocean Habitability"
+ pc_tundra_habitability:0 "Tundra Habitability"
+ pc_arctic_habitability:0 "Artic Habitability"
+ pc_savannah_habitability:0 "Savannah Habitability"
+ pc_alpine_habitability:0 "Alpine Habitability"

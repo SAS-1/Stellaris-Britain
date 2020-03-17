@@ -1,0 +1,37 @@
+# Start Screen Messages
+# Parameters:
+#   trigger, a trigger with country which decides if this is a valid part. Empty will be treated as always=yes.
+#   localization, a key to a localized string.
+#	location, decides where this chunk of text is located in the description, cannot be negative.
+
+### PRE-SCRIPTED
+
+# United Nations of Earth
+#part = {
+#	location = 0
+#	localization = "START_SCREEN_UNE"
+	
+#	trigger = {
+#		has_country_flag = human_1
+#	}
+#}
+
+# Britain and the Commonwelth
+part = {
+	location = 0
+	localization = "START_SCREEN_BRITISH"
+	
+	trigger = { 
+		has_country_flag = "BRITISH"
+	}
+}
+
+# The Commonwelth
+part = {
+	location = 0
+	localization = "START_SCREEN_COMMONWEALTH"
+	
+	trigger = { 
+		has_country_flag = "COMMONWEALTH"
+	}
+}
