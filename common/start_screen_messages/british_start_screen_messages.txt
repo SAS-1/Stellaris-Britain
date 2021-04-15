@@ -35,3 +35,13 @@ part = {
 		has_country_flag = "COMMONWEALTH"
 	}
 }
+
+# The Empire
+ part = {
+ 	location = 0
+ 	localization = "START_SCREEN_Empire"
+
+ 	trigger = { 
+ 		has_country_flag = "Empire"
+ 	}
+ }

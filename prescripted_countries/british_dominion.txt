@@ -157,3 +157,77 @@ COMMONWEALTH = {
 	}
 	origin="origin_default"
 }
+
+ Empire ={
+ 	#key="Empire"
+ 	ship_prefix="HIMS"
+ 	species={
+ 		class="HUM"
+ 		portrait="human"
+ 		name="Human"
+ 		plural="Humans"
+ 		adjective="Human"
+ 		name_list="Empire"
+ 	}
+
+ 	species_bio="The Commonwealth send us out to colonize and explore the universe.
+	
+ 	We fell into a wormhole and landed on the other side of the galaxy. 
+
+ 	Now we form a new Empire, in the traditions of the old British Empire we will bring civilzation to the Galaxy by any means....
+
+ 	We will make sure no sun ever sets on us"
+ 	name="The Empire"
+ 	adjective="Empirical"
+ 	authority="auth_imperial"
+ 	trait="trait_ingenious"
+ 	trait="trait_decadent"
+ 	trait="trait_natural_engineers"
+ 	government="gov_star_empire"
+ 	planet_name="New Britain"
+ 	planet_class="pc_continental"
+ 	system_name="New Britania"
+ 	initializer="custom_starting_init_02"
+ 	graphical_culture="humanoid_01"
+ 	city_graphical_culture="mammalian_01"
+ 	flags = {The_Empire custom_start_screen}
+ 	empire_flag={
+ 		icon={
+ 			category="domination"
+ 			file="domination_10.dds"
+ 		}
+ 		background={
+ 			category="backgrounds"
+ 			file="v.dds"
+ 		}
+ 		colors={
+ 			"dark_blue"
+ 			"red"
+ 			"null"
+ 			"null"
+ 		}
+ 	}
+ 	ruler={
+ 		gender=male
+ 		name="Henry X"
+ 		portrait="human_male_03"
+ 		texture=0
+ 		hair=3
+ 		clothes=6
+ 		ruler_title="King"
+ 		heir_title="Prince of New Wales"
+ 		leader_class="ruler"
+ 	}
+ 	spawn_as_fallen=no
+ 	ignore_portrait_duplication=no
+ 	room="personality_democratic_crusaders_room"
+ 	spawn_enabled=yes
+ 	ethic="ethic_authoritarian"
+ 	ethic="ethic_xenophobe"
+ 	ethic="ethic_militarist"
+ 	civics={
+ 		"civic_aristocratic_elite"
+ 		"civic_byzantine_bureaucracy"
+ 	}
+ 	origin="origin_lost_colony"
+ }

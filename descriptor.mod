@@ -3,6 +3,6 @@ tags={
 	"Species"
 }
 picture="title.jpg"
-supported_version="2.7.*"
-path="Stellaris/mod/brit_names"
+supported_version="2.8.*"
+path="D:/donal/SynologyDrive/Documents/Paradox Interactive/Stellaris/mod/brit_names"
 remote_file_id="1638396102"
