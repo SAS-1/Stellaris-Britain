@@ -39,7 +39,7 @@ BRITISH = {
 			Springbok "Smit Pioneer" "Sterling Victory" Sera "Snowdon Hill" Suffolkbrook Saker "Spanish Shallop"
 			Swift "Seven Stars" "Small Swallow" "Saint Matthew" "Saint Andrew" Splendid "Sergeant Pepper"
 			Thanet Tribesman "Tower Grange" "Tees Breeze" "Trego Ronnyger" "Three Ostrich Feathers" Tagamax
-			Tadpole Thrust Trustworthy
+			Tadpole Thrust Trustworthy Thrasher
 			Vimy Vindicative Vanguard Victorious Vigilant Vengeance
 			Wilga "West Isleta" "Wave Liberator" "Warp Knight" Woodcock Wakeful Watchful "Witch's Familiar" Waller
 			"Yarmouth Town"
@@ -48,7 +48,7 @@ BRITISH = {
 		destroyer = {
 			Aurora Arquebus Artigo Ambuscade Acasta Angler Ariel ANZAC Arunta
 			Beacon "Black Bark" "Bark of Bullen" "Bark of Murless" Bonavolia Brisbane 
-			Constellation "Christopher of Bream" "Constant Warwick" "Crowned Lion" Cheriton Cygnet Conflict
+			Constellation "Christopher of Bream" "Constant Warwick" "Crowned Lion" Cheriton Cygnet Conflict Campbeltown
 			Damsel Dapper Darling Daring
 			Ellynore "Eastern Prince" Expedition Electra "Earl Grey" Earnest
 			Focomar "Flying Typhoon" Firedrake Foxhound Fervent Feverish Ferrent Fame
@@ -90,6 +90,7 @@ BRITISH = {
 			Retribution Regent Roebuck Resolution Reserve "Raven King" "Red Dragon" Ruddigore "Ready Aye Ready"
 			Sussex Sweepstake Speedwell Swallow Swiftsure "Slave Of Duty" "Short Sharp Rock" Stormlight
 			Topaze "Thunder Child" "Trinity Sovereign" "Tally Ho" "Tit Willow"
+			Upholder
 			Vulcan
 			Wessex "White Raven" Waterwitch "White Dragon" "Well Spotted"
 		}
@@ -98,12 +99,12 @@ BRITISH = {
 			Agincourt Arrogant
 			Britannia 
 			Cumbria Cornwall Churchill Calgary
-			Dreadnought Dauntless Dominion
+			Dreadnought Dauntless Dominion "Duke of Edinburgh" "Duke of Cornwall" "Dike of Cambridge" "Duke of Westminster" "Duke of Wellington"
 			Excalibur England Enterprize
 			Gloriana "Grace Dieu" "Great Elizabeth"
 			Hastings "Heart of Oak"
 			Invincible Ireland
-			"King Arthur"
+			"King Arthur" "King George" 
 			Merlin "Mary Rose" "Mary Imperial" Mann
 			Olympia
 			Pinafore Perfidious "Prince of Wales"
@@ -123,6 +124,10 @@ BRITISH = {
 			"Sol Invictus" Adjudicator Overlord Guardian Kingmaker
 		}
 
+		juggernaut = {
+			Ararat "Axis Mundi" "Great Reformer" Kunlun Tectonic
+		}
+
 		constructor = {
 			Alisa "A. Hall" Artisan
 			Burntisland Bartram
@@ -130,7 +135,7 @@ BRITISH = {
 			"E. T. Lindley"
 			Furness Ferguson
 			"Henry Scarr"
-			"I. Pimblott"
+			"I. Pimblott" "Isambard Kingdom Brunel"
 			Grangemouth "Greenock Dockyard"
 			"J. S. Watson" "J. L. Thompson" "James Burness"
 			"R. Duncan" "R. & W. Hawthorn Leslie"
@@ -829,7 +834,7 @@ BRITISH = {
  			Agincourt Arrogant "Anne Boleyn"
  			Britannia 
  			Cumbria Cornwall Churchill Calgary "Catherine of Aragon"
- 			Dreadnought Dauntless Dominion
+ 			Dreadnought Dauntless Dominion "Duke of York" "Duke of Sussex" "Duke of London"
  			Excalibur England Enterprize
  			Gloriana "Grace Dieu" "Great Elizabeth"
  			Hastings "Heart of Oak"
@@ -851,6 +856,10 @@ BRITISH = {
  		colossus = {
  			"Sol Invictus" Adjudicator Boudica Overlord Guardian Kingmaker
  		}
+
+		 juggernaut = {
+			Ararat "Axis Mundi" "Great Reformer" Kunlun Tectonic
+		}
  		constructor = {
  			Alisa "A. Hall" Artisan
  			Burntisland Bartram

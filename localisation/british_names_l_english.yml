@@ -7,9 +7,9 @@
  name_list_COMMONWEALTH_desc:0 "'§YLeaders:§! Elizabeth III, Charles\n§YShips:§! Ajax, Achillies\n§YFleets:§! Home Fleet, Portsmouth Flotila\n§YColonies:§! New Britain, New Scotland"
  START_SCREEN_COMMONWEALTH:0 " The Commonwealth dates back to the first half of the 20th century with the decolonisation of the British Empire through increased self-governance of its territories.\nIt was originally created as the British Commonwealth through the Balfour Declaration at the 1926 Imperial Conference, and formalised by the United Kingdom through the Statute of Westminster in 1931.\nThe current Commonwealth of Nations was formally constituted by the London Declaration in 1949, which modernised the community, and established the member states as "free and equal"\n\nOver the next 200 years the Commonwealth expanded and took in the rest of the Western Nations, bringing peace and the rule of justice to the world. \n\nNow under the Commonwealth and it's head [Root.GetRulerTitle] [Root.GetRulerName], we will expand to the stars bring Peace, Justice and Freedom with us.\n\nGod Save The Queen."
 
-  name_list_Empire:0 "Empire"
-  name_list_Empire_desc:0 "'§YLeaders:§! Henry X, Elizabeth\n§YShips:§! Ajax, Achillies\n§YFleets:§! Home Fleet, Portsmouth Flotila\n§YColonies:§! Britainia, New Scotland"
-  START_SCREEN_Empire:0 " Years ago we were sent to explore the Galaxy. \nWe were thrown off course by a wormhole and found ourselves on the other side of the Galaxy. \NAlone with limited resources we founded the new British Empire to save the Galaxy. \nGod Save His Imperial Majesty"
+ name_list_Empire:0 "Empire"
+ name_list_Empire_desc:0 "'§YLeaders:§! Henry X, Elizabeth\n§YShips:§! Ajax, Achillies\n§YFleets:§! Home Fleet, Portsmouth Flotila\n§YColonies:§! Britainia, New Scotland"
+ START_SCREEN_Empire:0 " Years ago we were sent to explore the Galaxy. \nWe were thrown off course by a wormhole and found ourselves on the other side of the Galaxy. \NAlone with limited resources we founded the new British Empire to save the Galaxy. \nGod Save His Imperial Majesty"
  
  ####################################
  # Planet Classes
