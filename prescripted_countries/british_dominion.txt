@@ -1,6 +1,6 @@
 	BRITISH = {
 	name="Britain and the Commonwealth of Nations"
-	spawn_enabled=yes
+	spawn_enabled=always
 	adjective="British"
 	
 	name_list =  "BRITISH"
@@ -60,6 +60,7 @@
 		texture=0
 		hair=2
 		clothes=2
+		leader_class = ruler
 		ruler_title="King"
 		heir_title="Prince of Wales"
 		ruler_title_female="Queen"
@@ -140,6 +141,7 @@ COMMONWEALTH = {
 		texture=0
 		hair=2
 		clothes=2
+		leader_class = ruler
 		ruler_title="King"
 		heir_title="Prince of Wales"
 		ruler_title_female="Queen"
@@ -190,7 +192,7 @@ COMMONWEALTH = {
  	initializer="custom_starting_init_02"
  	graphical_culture="humanoid_01"
  	city_graphical_culture="mammalian_01"
- 	flags = {The_Empire custom_start_screen}
+ 	flags = {Empire custom_start_screen}
  	empire_flag={
  		icon={
  			category="domination"
@@ -214,9 +216,9 @@ COMMONWEALTH = {
  		texture=0
  		hair=3
  		clothes=6
+		leader_class = ruler
  		ruler_title="King"
  		heir_title="Prince of New Wales"
- 		leader_class="ruler"
  	}
  	spawn_as_fallen=no
  	ignore_portrait_duplication=no

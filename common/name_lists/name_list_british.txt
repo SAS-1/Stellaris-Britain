@@ -9,7 +9,8 @@ BRITISH = {
 		corvette = {
 			Aphrodite Alpha "Atlantic Unity" Asteria "Afon Morlais" Avistone Archangel Adellen Aid Algerine
 			Bellemina "Bangor Bay" "Bermuda Trader" Bloomfield "Banbury Cross" Barman Bermondsey Brigantine Bull
-			"Black Dog" "Black Pig" Brexit Britomart Bruiser Baldrick "British Tar" Bulldog Bluebell
+			"Black Dog" "Black Pig" "Black Swan" Brexit Britomart Bruiser Baldrick "British Tar" Bulldog Bluebell 
+			Buttercup
 			Cleonie Crossbow "Castle Hill" Clervaux "Clan Buchanan" Charger Courser "Christ of Lynn" Crane
 			Convertine "Cloud in the Sun" "Constant Reformation" "Chelsea Garden" Collins 
 			Dragon Defender Derryheen "Daisy Brooke" Despina Dunhawk "Dorington Court" Daresay Duneagle "Dundas Cross" Dinsdale
@@ -46,7 +47,7 @@ BRITISH = {
 		}
 		
 		destroyer = {
-			Aurora Arquebus Artigo Ambuscade Acasta Angler Ariel ANZAC Arunta
+			Aurora Arquebus Artigo Ambuscade Acasta Amethyst Angler Ariel ANZAC Arunta
 			Beacon "Black Bark" "Bark of Bullen" "Bark of Murless" Bonavolia Brisbane 
 			Constellation "Christopher of Bream" "Constant Warwick" "Crowned Lion" Cheriton Cygnet Conflict Campbeltown
 			Damsel Dapper Darling Daring
@@ -61,7 +62,7 @@ BRITISH = {
 			Marquess Maiden Mammoth Mallard "Mornington Crescent" Mayrose Membau Mantin Mermaid "Maid Marion"
 			Minotaur Miranda "Mawdlyn of Deptford" "Mary And John" "Mary Willoughby" "Matthew Gonson" Marigold
 			Marryan "Mary Hambrough" "Mary Thomas" "Mary James" "Mary Odierne"
-			Nightingale
+			Nightingale Narval 
 			Primrose "Prince royal" Perth
 			Ridgeback "Rainbow Night" "Red Lion" "Ralph Rackstraw" Racehorse
 			Stargazer Seafarer Struss Sacrett Salamander "Sans Pareil" "Saint Espirit" Satisfaction "Sea Nymph" Sydney 
@@ -77,7 +78,7 @@ BRITISH = {
 			"Crystal Palace" "Carvel of Ewe" Canberra Canterbury 
 			Diamond Duchess Diadem Dashing "Daily Grind" Darwin  Duncan
 			Exeter Essex Endymion Edgar Equinox
-			Flashheart Furious Firespitter Forward "Fair Is Rose" "For Happy The Lily" "Foul Play"
+			Fearless Flashheart Furious Firespitter Forward "Fair Is Rose" "For Happy The Lily" "Foul Play"
 			"Fantastic Miracle" "Finest Hour"
 			Gibraltar Guyenne Gascony "Golden Hind" Goodgrace "Gabriel Royal" "Good Form" "Good Sport" Gondolier
 			"Holy Ghost of Spain"
@@ -90,7 +91,7 @@ BRITISH = {
 			Retribution Regent Roebuck Resolution Reserve "Raven King" "Red Dragon" Ruddigore "Ready Aye Ready"
 			Sussex Sweepstake Speedwell Swallow Swiftsure "Slave Of Duty" "Short Sharp Rock" Stormlight
 			Topaze "Thunder Child" "Trinity Sovereign" "Tally Ho" "Tit Willow"
-			Upholder
+			Upholder Upright Unseen Unbroken Utmost 
 			Vulcan
 			Wessex "White Raven" Waterwitch "White Dragon" "Well Spotted"
 		}
@@ -109,7 +110,7 @@ BRITISH = {
 			Olympia
 			Pinafore Perfidious "Prince of Wales"
 			Scotland "Sovereign of the Stars" Sceptre
-			"Trinity Royal" Toronto
+			"Trinity Royal" Toronto Trafalgar
 			Unicorn
 			Victory Visionary Vancouver
 			Warrior Wellington Wales
@@ -745,7 +746,7 @@ BRITISH = {
  		corvette = {
  			Aphrodite Alpha "Atlantic Unity" Asteria "Afon Morlais" Avistone Archangel Adellen Aid Algerine "Anne of Cleves"
  			Bellemina "Bangor Bay" "Bermuda Trader" Bloomfield "Banbury Cross" Barman Bermondsey Brigantine Bull
- 			"Black Dog" "Black Pig" Brexit Britomart Bruiser Baldrick "British Tar" Bulldog Bluebell
+ 			"Black Dog" "Black Pig" "Black Swan" Brexit Britomart Bruiser Baldrick "British Tar" Bulldog Bluebell
  			Cleonie Crossbow "Castle Hill" Clervaux "Clan Buchanan" Charger Courser "Christ of Lynn" Crane
  			Convertine "Cloud in the Sun" "Constant Reformation" "Chelsea Garden" Collins 
  			Dragon Defender Derryheen "Daisy Brooke" Despina Dunhawk "Dorington Court" Daresay Duneagle "Dundas Cross" Dinsdale
