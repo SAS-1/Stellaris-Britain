@@ -57,7 +57,6 @@ BRITISH = {
 			Heart "Henry Hampton" "Hope Bark" "Henrietta Maria" Heatsease Hurricane Hobart 
 			"Iron Duke"
 			Janus "John of Greenwich"
-			"Katherine Bark"
 			Longbow "Lady Berbice" Lorinda Lively Lookout "Little Buttercupt"
 			Marquess Maiden Mammoth Mallard "Mornington Crescent" Mayrose Membau Mantin Mermaid "Maid Marion"
 			Minotaur Miranda "Mawdlyn of Deptford" "Mary And John" "Mary Willoughby" "Matthew Gonson" Marigold
@@ -85,7 +84,7 @@ BRITISH = {
 			Jellicoe "Jennet Prywin" "John Baptist"
 			"Kartherine Fortune"
 			Laurel "Little Barbara" Littlejohn
-			Mercia Mariner Mars Marvelous "Mary Fortune" "Mary Loret" Mikado Marathon Melbourne Marlborough
+			Mercia Mariner Mars Marvelous "Mary Fortune" Mikado Marathon Melbourne Marlborough
 			Nelson Northumbria Neptune "Nicholas Reede" Notthingham
 			Protestor "Peter Pomegranate" Phoenix
 			Retribution Regent Roebuck Resolution Reserve "Raven King" "Red Dragon" Ruddigore "Ready Aye Ready"
@@ -100,7 +99,7 @@ BRITISH = {
 			Agincourt Arrogant
 			Britannia 
 			Cumbria Cornwall Churchill Calgary
-			Dreadnought Dauntless Dominion "Duke of Edinburgh" "Duke of Cornwall" "Dike of Cambridge" "Duke of Westminster" "Duke of Wellington"
+			Dreadnought Dauntless Dominion "Duke of Edinburgh" "Duke of Cornwall" "Duke of Cambridge" "Duke of Westminster" "Duke of Wellington"
 			Excalibur England Enterprize
 			Gloriana "Grace Dieu" "Great Elizabeth"
 			Hastings "Heart of Oak"
