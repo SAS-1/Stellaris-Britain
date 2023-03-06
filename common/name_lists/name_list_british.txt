@@ -222,41 +222,41 @@ BRITISH = {
 		random_names = { 
 			"Home Fleet" "1st Battle Squadron" "2nd Battle Squadron" "3rd Battle Squadron" "4th Battle Squadron" "Faslane Flotilla" "Portsmouth Flotilla" "Devonport Flotilla"
 			}
-		sequential_name = "%O% Battle Squadron"
+		sequential_name = BRIT1_xxFLEET_ORD
 	}
 	
 	army_names = {
 	
 		defense_army = {
-			sequential_name = "%O% Home Guard"
+			sequential_name = BRIT1_xxPLANETARYGUARD_ORD
 		}
 
 		assault_army = {
-			sequential_name = "%O% Corps"
+			sequential_name = BRIT1_xxEXPEDITIONARYFORCE_ORD
 		}
 		
 		slave_army = {
-			sequential_name = "%O% Auxiliary Corps"
+			sequential_name = BRIT1_xxINDENTUREDRIFLES_ORD
 		}
 		
-		clone_army = { 
-			sequential_name = "%O% Clone Legion"
+		clone_army = {
+			sequential_name = BRIT1_xxCLONEARMY_ORD
 		}
 		
 		robotic_army = {
-			sequential_name = "%O% Babbage Battalion"
+			sequential_name = BRIT1_xxHUNTERKILLERGROUP_ORD
 		}
 
 		robotic_defense_army = {
-			sequential_name = "Turing Force %R%"
+			sequential_name = BRIT1_xxGROUNDDEFENSEMATRIX_ROM
 		}
 		
-		psionic_army = { 
-			sequential_name = "%O% Theosophic Corps"
+		psionic_army = {
+			sequential_name = BRIT1_xxPSICOMMANDO_ORD
 		}
 		
 		xenomorph_army = {
-			sequential_name = "%R% Moreau Corps"
+			sequential_name = BRIT1_xxBIOWARFAREDIVISION_ROM
 		}
 		
 		gene_warrior_army = {
@@ -264,25 +264,25 @@ BRITISH = {
 				"SARC-A 'Gladiators'" "SARC-B 'Widowmakers'" "SARC-C 'Immortals'" "SARC-D 'Berserkers'" "SARC-E 'Assassins'"
 				"SARC-F 'Reapers'" "SARC-G 'Nighthawks'" "SARC-H 'Desperados'" "SARC-I 'Grey Knights'" "SARC-J 'Roughnecks'" 
 			}
-			sequential_name = "%O% Jekyll-Hyde Corps"
+			sequential_name = BRIT1_xxBIOENGINEEREDSQUADRON_ORD
 		}
 
 		occupation_army = {
-			sequential_name = "%O% Garrison Force"
+			sequential_name = BRIT1_xxGARRISONFORCE_ORD
 		}
 
 		robotic_occupation_army = {
-			sequential_name = "%O% Mechanized Garrison"
+			sequential_name = BRIT1_xxMECHANIZEDGARRISON_ORD
 		}
 
 		primitive_army = {
-			sequential_name = "Primitive Army %C%"
+			sequential_name = BRIT1_PRIMITIVEARMYxx_SEQ
 		}
 		industrial_army = {
-			sequential_name = "Industrial Army %C%"
+			sequential_name = BRIT1_INDUSTRIALARMYxx_ORD
 		}
 		postatomic_army = {
-			sequential_name = "Post-Atomic Army %C%"
+			sequential_name = BRIT1_POSTATOMICARMYxx_SEQ
 		}
 	}
 
@@ -951,39 +951,39 @@ BRITISH = {
  		random_names = { 
  			"Home Fleet" "1st Battle Squadron" "2nd Battle Squadron" "3rd Battle Squadron" "4th Battle Squadron" "Faslane Flotilla" "Portsmouth Flotilla" "Devonport Flotilla"
  			}
- 		sequential_name = "%O% Battle Squadron"
+ 		sequential_name = BRIT2_xxFLEET_ORD
  	}
 
  	army_names = {
 
  		defense_army = {
- 			sequential_name = "%O% Home Guard"
+ 			sequential_name = BRIT2_xxPLANETARYGUARD_ORD
  		}
  		assault_army = {
- 			sequential_name = "%O% Corps"
+ 			sequential_name = BRIT2_xxEXPEDITIONARYFORCE_ORD
  		}
 	
  		slave_army = {
- 			sequential_name = "%O% Auxiliary Corps"
+ 			sequential_name = BRIT2_xxINDENTUREDRIFLES_ORD
  		}
 	
  		clone_army = { 
- 			sequential_name = "%O% Clone Legion"
+ 			sequential_name = BRIT2_xxCLONEARMY_ORD
  		}
 	
  		robotic_army = {
- 			sequential_name = "%O% Babbage Battalion"
+ 			sequential_name = BRIT2_xxHUNTERKILLERGROUP_ORD
  		}
  		robotic_defense_army = {
- 			sequential_name = "Turing Force %R%"
+ 			sequential_name = BRIT2_xxGROUNDDEFENSEMATRIX_ROM
  		}
 	
  		psionic_army = { 
- 			sequential_name = "%O% Theosophic Corps"
+ 			sequential_name = BRIT2_xxPSICOMMANDO_ORD
  		}
 	
  		xenomorph_army = {
- 			sequential_name = "%R% Moreau Corps"
+ 			sequential_name = BRIT2_xxBIOWARFAREDIVISION_ROM
  		}
 	
  		gene_warrior_army = {
@@ -991,22 +991,22 @@ BRITISH = {
  				"SARC-A 'Gladiators'" "SARC-B 'Widowmakers'" "SARC-C 'Immortals'" "SARC-D 'Berserkers'" "SARC-E 'Assassins'"
  				"SARC-F 'Reapers'" "SARC-G 'Nighthawks'" "SARC-H 'Desperados'" "SARC-I 'Grey Knights'" "SARC-J 'Roughnecks'" 
  			}
- 			sequential_name = "%O% Jekyll-Hyde Corps"
+ 			sequential_name = BRIT2_xxBIOENGINEEREDSQUADRON_ORD
  		}
  		occupation_army = {
- 			sequential_name = "%O% Garrison Force"
+ 			sequential_name = BRIT2_xxGARRISONFORCE_ORD
  		}
  		robotic_occupation_army = {
- 			sequential_name = "%O% Mechanized Garrison"
+ 			sequential_name = BRIT2_xxMECHANIZEDGARRISON_ORD
  		}
  		primitive_army = {
- 			sequential_name = "Primitive Army %C%"
+ 			sequential_name = BRIT2_PRIMITIVEARMYxx_SEQ
  		}
  		industrial_army = {
- 			sequential_name = "Industrial Army %C%"
+ 			sequential_name = BRIT2_INDUSTRIALARMYxx_ORD
  		}
  		postatomic_army = {
- 			sequential_name = "Post-Atomic Army %C%"
+ 			sequential_name = BRIT2_POSTATOMICARMYxx_SEQ
  		}
  	}
  	planet_names = {
