@@ -55,7 +55,7 @@ Empire = {
 		}
 
 		ion_cannon = {
-			BRIT2_SHIP_Bombard BRIT2_SHIP_Ballista BRIT2_SHIP_Catapult BRIT2_SHIP_Harpoon BRIT2_SHIP_Polybolos BRIT2_SHIP_Culverin
+		BRIT2_SHIP_Bombard BRIT2_SHIP_Ballista BRIT2_SHIP_Catapult BRIT2_SHIP_Harpoon BRIT2_SHIP_Polybolos BRIT2_SHIP_Culverin
 		}
 	}
 

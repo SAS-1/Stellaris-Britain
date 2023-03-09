@@ -31,7 +31,7 @@ BRITISH = {
 		}
 
 		juggernaut = {
-			BRIT1_SHIP_Ararat BRIT1_SHIP_AxisMundi BRIT1_SHIP_GreatReformer BRIT1_SHIP_Kunlun BRIT1_SHIP_Tectonic 
+		BRIT1_SHIP_Ararat BRIT1_SHIP_AxisMundi BRIT1_SHIP_GreatReformer BRIT1_SHIP_Kunlun BRIT1_SHIP_Tectonic 
 		}
 
 		constructor = { 
@@ -55,7 +55,7 @@ BRITISH = {
 		}
 
 		ion_cannon = {
-			BRIT1_SHIP_Bombard BRIT1_SHIP_Ballista BRIT1_SHIP_Catapult BRIT1_SHIP_Harpoon BRIT1_SHIP_Polybolos BRIT1_SHIP_Culverin
+		BRIT1_SHIP_Bombard BRIT1_SHIP_Ballista BRIT1_SHIP_Catapult BRIT1_SHIP_Harpoon BRIT1_SHIP_Polybolos BRIT1_SHIP_Culverin
 		}
 	}
 
