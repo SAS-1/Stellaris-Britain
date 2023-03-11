@@ -217,8 +217,10 @@ COMMONWEALTH = {
  		hair=3
  		clothes=6
 		leader_class = ruler
- 		ruler_title="King"
- 		heir_title="Prince of New Wales"
+ 		ruler_title="His Imperial Majesty"
+ 		heir_title="Imperial Prince"
+		ruler_title_female="Her Imperial Majesty"
+		heir_title_female ="Imperial Princess"
  	}
  	spawn_as_fallen=no
  	ignore_portrait_duplication=no
