@@ -1,122 +1,179 @@
-	BRITISH = {
-	name="Britain and the Commonwealth of Nations"
-	spawn_enabled=always
-	adjective="British"
-	
-	name_list =  "BRITISH"
-	ship_prefix="HMS"
-	
-	species_name = "Human"
-	species_plural = "Humans"	#we should localize this!
-	species_adjective = "Human"
-	species_bio="In the years after Brexit, the UK was able to flourish while the EU slowly collapsed. 
-
-    After discussions with the rest of the Commonwealth of Nations the Commonwealth started to open its doors up to the other nations of Earth. 
-    
-    America, struggling with its place after the brief 2nd Civil war, decided to join the Commonwealth the trade and technological advantages were worth it.  
-    
-    Over the years the rest of the world either joined the Commonwealth, prospering and helping to advance science and tech or fell to despotism. 
-    
-    The Commonwealth now leads the free and advanced countries of the world, the UK considered to be first among equals, under the Monarch and their Prime Minister will lead the people of earth into space."
-	species_class = "HUM"
-	portrait = "human"
-	#room = "ethic_pacifist_room"
-	trait="trait_quick_learners"
-	trait="trait_talented"
-	
-	
-	authority="auth_imperial"
-	government="gov_enlightened_monarchy"
-	planet_name="Earth"
-	planet_class = "pc_continental"
-	system_name="Sol"
-	initializer="sol_system_initializer"
-	graphical_culture="mammalian_01"
-	city_graphical_culture="mammalian_01"
-	
-	flags = {BRITISH custom_start_screen}
-	
-	empire_flag={
-		icon={
-			category="human"
-			file="flag_human_4.dds"
+	BRITISH={
+		key="Britain and the Commonwealth of Nations"
+		ship_prefix={
+			key="HMS"
 		}
-		background={
-			category="backgrounds"
-			file="v.dds"
+		species={
+			class="HUM"
+			portrait="human_legacy"
+			species_name={
+				key="Human"
+			}
+			species_plural={
+				key="Humans"
+			}
+			species_adjective={
+				key="Human"
+			}
+			species_bio="In the years after Brexit, the UK was able to flourish while the EU slowly collapsed. 
+	
+	
+	
+		After discussions with the rest of the Commonwealth of Nations the Commonwealth started to open its doors up to the other nations of Earth. 
+	
+		
+	
+		America, struggling with its place after the brief 2nd Civil war, decided to join the Commonwealth the trade and technological advantages were worth it.  
+	
+		
+	
+		Over the years the rest of the world either joined the Commonwealth, prospering and helping to advance science and tech or fell to despotism. 
+	
+		
+	
+		The Commonwealth now leads the free and advanced countries of the world, the UK considered to be first among equals, under the Monarch and their Prime Minister will lead the people of earth into space."
+			name_list="BRITISH"
+			gender=not_set
+			trait="trait_quick_learners"
+			trait="trait_talented"
 		}
-		colors={
-			"dark_blue"
-			"red"
-			"null"
-			"null"
+		name={
+			key="Britain and the Commonwealth of Nations"
 		}
+		adjective={
+			key="British"
+		}
+		authority="auth_imperial"
+		flags={
+			"BRITISH"
+			"custom_start_screen"
+		}
+		government="gov_enlightened_monarchy"
+		planet_name={
+			key="Earth"
+		}
+		planet_class="pc_continental"
+		system_name={
+			key="Sol"
+		}
+		initializer="sol_system_initializer"
+		graphical_culture="mammalian_01"
+		city_graphical_culture="mammalian_01"
+		empire_flag={
+			icon={
+				category="human"
+				file="flag_human_4.dds"
+			}
+			background={
+				category="backgrounds"
+				file="v.dds"
+			}
+			colors={
+				"dark_blue"
+				"red"
+				"null"
+				"null"
+			}
+		}
+		ruler={
+			gender=female
+			name={
+				full_names={
+					key="Elizabeth III"
+				}
+			}
+			portrait="human_legacy_female_01"
+			texture=0
+			attachment=2
+			clothes=2
+			ruler_title={
+				key="King"
+				literal=yes
+			}
+			heir_title={
+				key="Prince of Wales"
+				literal=yes
+			}
+			ruler_title_female={
+				key="Queen"
+				literal=yes
+			}
+			heir_title_female={
+				key="Princess Royal"
+				literal=yes
+			}
+			custom_biography={
+				key="Named after two of the greatest Queen's in history of the UK Elizabeth III has steered the monarchy through turmoil and change to take us to the stars"
+				literal=yes
+			}
+			trait="trait_ruler_charismatic"
+			leader_class="governor"
+		}
+		spawn_as_fallen=no
+		ignore_portrait_duplication=no
+		room="personality_democratic_crusaders_room"
+		spawn_enabled=always
+		ethic="ethic_xenophile"
+		ethic="ethic_fanatic_militarist"
+		civics={
+			"civic_philosopher_king"
+			"civic_environmentalist"
+		}
+		origin="origin_default"
 	}
-	
-	ruler={
-		gender=female
-		name="Elizabeth III"
-		portrait="human_female_01"
-		texture=0
-		hair=2
-		clothes=2
-		leader_class = ruler
-		ruler_title="King"
-		heir_title="Prince of Wales"
-		ruler_title_female="Queen"
-		heir_title_female ="Princess Royal"
+
+COMMONWEALTH={
+	key="Commonwealth of Nations"
+	ship_prefix={
+		key="CON"
 	}
-	
-	spawn_as_fallen=no
-	ignore_portrait_duplication=no
-	room="personality_democratic_crusaders_room"
-	ethic="ethic_xenophile"
-	ethic="ethic_fanatic_militarist"
-	civics={
-		"civic_philosopher_king"
-		"civic_environmentalist"
-	}
-	origin="origin_default"
-}
-
-
-COMMONWEALTH = {
-	name="Commonwealth of Nations"
-	spawn_enabled=yes
-	adjective="Commonwealth"
-
-	name_list = "BRITISH"
-	ship_prefix="CON"
-	
-	species_name = "Human"
-	species_plural = "Humans"	#we should localize this!
-	species_adjective = "Human"
-	species_bio="The Commonwealth of Nations has expanded from a small number of countries to nearly all nations on Earth.
+	species={
+		class="HUM"
+		portrait="human_legacy"
+		species_name={
+			key="Human"
+		}
+		species_plural={
+			key="Humans"
+		}
+		species_adjective={
+			key="Human"
+		}
+		species_bio="The Commonwealth of Nations has expanded from a small number of countries to nearly all nations on Earth.
 	
 	They have a standard criteria, a shared language, history, culture and their shared values of democracy, human rights and the rule of law. 
 	These values are enshrined in the Commonwealth Charter and promoted by the quadrennial Commonwealth Games. 
 	
 	The Commonwealth believe in helping each other, and ensuring that the future is protected. 
 	
-	The Monarch and Commonwealth secretary will lead the people of earth into space."
-	species_class = "HUM"
-	portrait = "human"
-	#room = "ethic_pacifist_room"
-	trait="trait_quick_learners"
-	trait="trait_talented"
-	
-	
+"
+		name_list="BRITISH"
+		gender=not_set
+		trait="trait_quick_learners"
+		trait="trait_talented"
+	}
+	name={
+		key="Commonwealth of Nations"
+	}
+	adjective={
+		key="Commonwealth"
+	}
 	authority="auth_imperial"
+	flags={
+		"COMMONWEALTH"
+		"custom_start_screen"
+	}
 	government="gov_enlightened_monarchy"
-	planet_name="Earth"
-	planet_class = "pc_continental"
-	system_name="Sol"
+	planet_name={
+		key="Earth"
+	}
+	planet_class="pc_continental"
+	system_name={
+		key="Sol"
+	}
 	initializer="sol_system_initializer"
 	graphical_culture="humanoid_01"
 	city_graphical_culture="mammalian_01"
-	
-	flags = {COMMONWEALTH custom_start_screen}
-	
 	empire_flag={
 		icon={
 			category="spherical"
@@ -133,24 +190,44 @@ COMMONWEALTH = {
 			"null"
 		}
 	}
-	
 	ruler={
 		gender=female
-		name="Elizabeth III"
-		portrait="human_female_01"
+		name={
+			full_names={
+				key="Elizabeth III"
+			}
+		}
+		portrait="human_legacy_female_01"
 		texture=0
-		hair=2
+		attachment=2
 		clothes=2
-		leader_class = ruler
-		ruler_title="King"
-		heir_title="Prince of Wales"
-		ruler_title_female="Queen"
-		heir_title_female ="Princess Royal"
+		ruler_title={
+			key="King"
+			literal=yes
+		}
+		heir_title={
+			key="Prince of Wales"
+			literal=yes
+		}
+		ruler_title_female={
+			key="Queen"
+			literal=yes
+		}
+		heir_title_female={
+			key="Princess Royal"
+			literal=yes
+		}
+		custom_biography={
+			key="Named after two of the greatest Queen's in history of the UK Elizabeth III has steered the monarchy through turmoil and change to take us to the stars"
+			literal=yes
+		}
+		trait="trait_ruler_charismatic"
+		leader_class="governor"
 	}
-	
 	spawn_as_fallen=no
 	ignore_portrait_duplication=no
 	room="personality_democratic_crusaders_room"
+	spawn_enabled=yes
 	ethic="ethic_xenophile"
 	ethic="ethic_fanatic_militarist"
 	civics={
@@ -160,78 +237,124 @@ COMMONWEALTH = {
 	origin="origin_default"
 }
 
- Empire ={
- 	#key="Empire"
- 	ship_prefix="HIMS"
- 	species={
- 		class="HUM"
- 		portrait="human"
- 		name="Human"
- 		plural="Humans"
- 		adjective="Human"
- 		name_list="Empire"
- 	}
+ Empire={
+	key="The Empire"
+	ship_prefix={
+		key="HIMS"
+	}
+	species={
+		class="HUM"
+		portrait="human_legacy"
+		species_name={
+			key="Human"
+		}
+		species_plural={
+			key="Humans"
+		}
+		species_adjective={
+			key="Human"
+		}
+		species_bio="The Commonwealth send us out to colonize and explore the universe.
 
- 	species_bio="The Commonwealth send us out to colonize and explore the universe.
 	
+
  	We fell into a wormhole and landed on the other side of the galaxy. 
+
+
 
  	Now we form a new Empire, in the traditions of the old British Empire we will bring civilzation to the Galaxy by any means....
 
+
+
  	We will make sure no sun ever sets on us"
- 	name="The Empire"
- 	adjective="Empirical"
- 	authority="auth_imperial"
- 	trait="trait_ingenious"
- 	trait="trait_decadent"
- 	trait="trait_natural_engineers"
- 	government="gov_star_empire"
- 	planet_name="New Britain"
- 	planet_class="pc_continental"
- 	system_name="New Britania"
- 	initializer="custom_starting_init_02"
- 	graphical_culture="humanoid_01"
- 	city_graphical_culture="mammalian_01"
- 	flags = {Empire custom_start_screen}
- 	empire_flag={
- 		icon={
- 			category="domination"
- 			file="domination_10.dds"
- 		}
- 		background={
- 			category="backgrounds"
- 			file="v.dds"
- 		}
- 		colors={
- 			"dark_blue"
- 			"red"
- 			"null"
- 			"null"
- 		}
- 	}
- 	ruler={
- 		gender=male
- 		name="Henry X"
- 		portrait="human_male_03"
- 		texture=0
- 		hair=3
- 		clothes=6
-		leader_class = ruler
- 		ruler_title="His Imperial Majesty"
- 		heir_title="Imperial Prince"
-		ruler_title_female="Her Imperial Majesty"
-		heir_title_female ="Imperial Princess"
- 	}
- 	spawn_as_fallen=no
- 	ignore_portrait_duplication=no
- 	room="personality_democratic_crusaders_room"
- 	spawn_enabled=yes
- 	ethic="ethic_authoritarian"
- 	ethic="ethic_xenophobe"
- 	ethic="ethic_militarist"
- 	civics={
- 		"civic_aristocratic_elite"
- 		"civic_byzantine_bureaucracy"
- 	}
- 	origin="origin_lost_colony"
- }
+		name_list="Empire"
+		gender=not_set
+		trait="trait_ingenious"
+		trait="trait_decadent"
+		trait="trait_natural_engineers"
+	}
+	name={
+		key="The Empire"
+	}
+	adjective={
+		key="Empirical"
+	}
+	authority="auth_imperial"
+	flags={
+		"Empire"
+		"custom_start_screen"
+	}
+	government="gov_star_empire"
+	planet_name={
+		key="New Britain"
+	}
+	planet_class="pc_continental"
+	system_name={
+		key="New Britania"
+	}
+	initializer="custom_starting_init_02"
+	graphical_culture="humanoid_01"
+	city_graphical_culture="humanoid_01"
+	empire_flag={
+		icon={
+			category="domination"
+			file="domination_10.dds"
+		}
+		background={
+			category="backgrounds"
+			file="v.dds"
+		}
+		colors={
+			"dark_blue"
+			"red"
+			"null"
+			"null"
+		}
+	}
+	ruler={
+		gender=male
+		name={
+			full_names={
+				key="Henry X"
+			}
+		}
+		portrait="human_legacy_male_01"
+		texture=0
+		attachment=3
+		clothes=6
+		ruler_title={
+			key="His Imperial Majesty"
+			literal=yes
+		}
+		heir_title={
+			key="Imperial Prince"
+			literal=yes
+		}
+		ruler_title_female={
+			key="Her Imperial Majesty"
+			literal=yes
+		}
+		heir_title_female={
+			key="Imperial Princess"
+			literal=yes
+		}
+		custom_biography={
+			key="Henry recently ascended to the throne after the early death of his father, some say he killed his father but Imerial Security will find anyone who says so and disappear them..."
+			literal=yes
+		}
+		trait="trait_ruler_warlike"
+		leader_class="admiral"
+	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room="personality_democratic_crusaders_room"
+	spawn_enabled=yes
+	ethic="ethic_authoritarian"
+	ethic="ethic_xenophobe"
+	ethic="ethic_militarist"
+	civics={
+		"civic_aristocratic_elite"
+		"civic_byzantine_bureaucracy"
+	}
+	origin="origin_lost_colony"
+}

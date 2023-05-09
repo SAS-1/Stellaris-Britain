@@ -1109,6 +1109,20 @@ Empire = {
 				BRIT_PLANET_Waltair
 				BRIT_PLANET_Wace
 				BRIT_PLANET_Warrendown
+				BRIT_PLANET_Caledonia
+				BRIT_PLANET_Dunedin
+				BRIT_PLANET_Hadrian
+				BRIT_PLANET_Quainton
+				BRIT_PLANET_Albion 
+				BRIT_PLANET_Avalon 
+				BRIT_PLANET_Britannia
+				BRIT_PLANET_Camelot
+				BRIT_PLANET_Excalibur
+				BRIT_PLANET_Hibernia
+				BRIT_PLANET_Lancelot
+				BRIT_PLANET_Merlin 
+				BRIT_PLANET_Pendragon
+				BRIT_PLANET_Tintagel
 			}
 		}
 		
